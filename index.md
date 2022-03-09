@@ -8,7 +8,7 @@ Programming projects for processing and C++
 
 OOP soulution for a collision based graphics space game shooter. 
 
-![SpaceGame]()
+![SpaceGame](https://github.com/LedgerStaker/Programming-Portfolio2022/blob/gh-pages/image/SpaceGame.png?raw=true)
 
 [Source Code]()
 
